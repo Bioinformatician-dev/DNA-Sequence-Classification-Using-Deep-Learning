@@ -1,0 +1,16 @@
+sequence,label
+ATGCGT,cancerous
+ATGCTA,non-cancerous
+ATGCGT,cancerous
+ATGCAT,non-cancerous
+ATGGTA,cancerous
+CTAGCT,non-cancerous
+CTAGAT,non-cancerous
+CTAGGT,cancerous
+CTAGTA,non-cancerous
+ATGCGC,cancerous
+ATGCCC,non-cancerous
+CTAGGA,cancerous
+ATGGTG,cancerous
+CTAGAC,non-cancerous
+CTAGTA,non-cancerous
