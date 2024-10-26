@@ -29,5 +29,5 @@ The model is trained on the training dataset for 50 epochs.
 * Model Evaluation: 
 We evaluate the model's performance on the test dataset.
 
-Predictions: 
-* Finally, we use the trained model to make predictions on new sequences.
+* Predictions: 
+Finally, we use the trained model to make predictions on new sequences.
