@@ -31,3 +31,11 @@ We evaluate the model's performance on the test dataset.
 
 * Predictions: 
 Finally, we use the trained model to make predictions on new sequences.
+
+## Run the Script 
+
+Save the script as classifying.py and run it:
+
+```bash
+ classifying.py
+```
