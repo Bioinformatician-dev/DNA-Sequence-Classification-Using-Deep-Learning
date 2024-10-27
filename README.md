@@ -37,8 +37,9 @@ In this project, we are going to classify DNA sequences using deep learning mode
 
 ## Dataset
 The dataset used in this project consists of DNA sequences and their corresponding labels. The CSV file format includes two columns: sequence and label.
-
-
+```bash
+     dna_sequences.csv
+```
 ## Installation
 To set up the project, clone the repository and install the required packages:
 ```bash
