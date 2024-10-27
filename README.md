@@ -9,19 +9,19 @@ In this project, we are going to classify DNA sequences using deep learning mode
 
 * Dataset
 
-Installation
+* Installation
 
-Usage
+* Usage
 
-Training
+* Training
 
-Evaluation
+* Evaluation
 
-Results
+* Results
 
-Contributing
+* Contributing
 
-License
+
 ## Installation
 To set up the project, clone the repository and install the required packages:
 ```bash
