@@ -5,21 +5,38 @@ In this project, we are going to classify DNA sequences using deep learning mode
 
 * Features
 
-* Technologies Used
+ * Technologies Used
 
-* Dataset
+ * Dataset
 
-* Installation
+ * Installation
 
-* Usage
+ * Usage
 
-* Training
+ * Training
 
-* Evaluation
+ * Evaluation
 
-* Results
+ * Results
 
-* Contributing
+ * Contributing
+
+ ## Features
+  * DNA Sequence Encoding: Converts DNA sequences into numerical format for model training.
+  * Architecture: Utilizes an embedding layer and LSTM layers for sequential data processing.
+  * Model Training and Evaluation: Implements early stopping and model checkpointing for optimal training.
+  * Visualization: Provides visual insights into training and validation accuracy/loss.
+
+## Technologies Used
+* Python
+* TensorFlow/Keras
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+
+## Dataset
+The dataset used in this project consists of DNA sequences and their corresponding labels. The CSV file format includes two columns: sequence and label.
 
 
 ## Installation
