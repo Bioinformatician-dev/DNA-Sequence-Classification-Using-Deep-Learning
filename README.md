@@ -5,7 +5,7 @@ In this project, we are going to classify DNA sequences using deep learning mode
 
 * Features
 
- * Technologies Used
+ * Libraries Used
 
  * Dataset
 
@@ -27,8 +27,8 @@ In this project, we are going to classify DNA sequences using deep learning mode
   * Model Training and Evaluation: Implements early stopping and model checkpointing for optimal training.
   * Visualization: Provides visual insights into training and validation accuracy/loss.
 
-## Technologies Used
-* Python
+## Libraries Used
+
 * TensorFlow/Keras
 * NumPy
 * Pandas
